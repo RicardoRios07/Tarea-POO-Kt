@@ -1,3 +1,0 @@
-interface Vehiculo {
-    fun acelerar()
-}
